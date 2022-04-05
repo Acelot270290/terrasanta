@@ -26,7 +26,7 @@ define( 'DB_NAME', 'u868320945_terrasanta' );
 define( 'DB_USER', 'u868320945_terrasanta' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Acelot.170510' );
+define( 'DB_PASSWORD', 'Acelot.270290' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
